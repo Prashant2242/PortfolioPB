@@ -7,7 +7,7 @@ import Skills from "./components/Skills";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 import { Toaster } from "react-hot-toast";
-import Certification from "./components/certificates";
+import Certification from "./components/Certification";
 
 function App() {
   return (
